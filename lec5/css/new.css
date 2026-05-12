@@ -1,0 +1,27 @@
+img{
+    max-width: 90%;
+    height: auto;
+    border: 2px solid
+}
+.current{
+    text-transform:uppercase;
+    font-weight:150%;
+}
+figure{
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+}
+.gallery img {
+  width: 100%;
+}
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:blue;
+    background-color: antiquewhite;
+}
+main{
+    padding: 20px;
+    border: 1.5px solid;
+    border-radius:8px;  
+}
